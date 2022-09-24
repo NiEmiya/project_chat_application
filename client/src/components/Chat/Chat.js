@@ -9,7 +9,7 @@ import Input from "../Input/Input";
 
 import "./Chat.css";
 
-const ENDPOINT = "https://ayda-backend-2xgza3vsn-niemiya.vercel.app/";
+const ENDPOINT = "https://ayda-backend.vercel.app/";
 
 let socket;
 
